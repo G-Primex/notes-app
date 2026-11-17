@@ -2,6 +2,10 @@
 
 A responsive notes application built with   HTML, CSS and JavaScript.
 
+## 🚀 Live Demo
+
+[View the live application](https://g-primex-notes-app.netlify.app/)
+
 ## Features
 
 - Create notes
